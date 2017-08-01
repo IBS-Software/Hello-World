@@ -4,6 +4,8 @@ public class Learn2 {
 	public static void main(String[] args) {
 		System.out.println("Hello world - From branch2!!");
 		System.out.println("Hello world - From branch1!!");
+
+		System.out.println("Hello world - Updated from master after push in the remote repository!!");
 	}
 
 }
